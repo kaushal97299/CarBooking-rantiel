@@ -55,6 +55,9 @@ require("./routes/client")(app);
 require("./routes/inventory")(app);
 require("./routes/admin")(app);
 require("./routes/adminInventory")(app);
+require("./routes/adminkyc")(app);
+
+
 
 /* ================= START ================= */
 
